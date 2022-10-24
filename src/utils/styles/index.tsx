@@ -1,5 +1,7 @@
 import styled from "styled-components";
 
-export const AuthenticationPage = () => {
-  return <div>Auth</div>;
-};
+export const InputField = styled.input``;
+
+export const InputContainer = styled.div``;
+
+export const InputLabel = styled.label``;

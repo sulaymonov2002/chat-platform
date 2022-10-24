@@ -1,7 +1,11 @@
-
+import { InputContainer, InputField } from "../../utils/styles";
 
 export const RegisterForm = () => {
-    return <form>
+  return (
+    <form>
+      <InputContainer >
       
-  </form>;
+      </InputContainer>
+    </form>
+  );
 };
